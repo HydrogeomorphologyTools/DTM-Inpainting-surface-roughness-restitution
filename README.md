@@ -6,5 +6,8 @@ Wolfgang Schwanghart for the amazing Topo-Toolbox set of tools (https://www.math
 
 Usage example: clone or dowload the repository: https://github.com/HydrogeomorphologyTools/DTM-Inpainting-surface-roughness-restitution 
 
-Then run the main script (Inpaint_DTM_roughness_restitution.m) "as is" with the provided inputs and dependance files. Investigation is still needed on DTM-related performance.
+Then run the main script (Inpaint_DTM_roughness_restitution.m) "as is" with the provided inputs and dependance files. 
+
+Feel free to test and vary parameterization, investigation is still needed on DTM-related performance.
+
 Enjoy!
