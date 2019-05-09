@@ -8,6 +8,8 @@ Usage example: clone or dowload the repository: https://github.com/Hydrogeomorph
 
 Then run the main script (Inpaint_DTM_roughness_restitution.m) "as is" with the provided inputs and dependance files. 
 
+Tested with Matlab R2018a
+
 Feel free to test and vary parameterization, investigation is still needed on DTM-related performance.
 
 Enjoy!
